@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Types>
+    <Type>
+        <Name>SsisTools.SsisSql</Name>
+        <Members>
+            <NoteProperty>
+                <Name>FileName</Name>
+                <Value>null</Value>
+            </NoteProperty>
+            <NoteProperty>
+                <Name>TaskName</Name>
+                <Value>null</Value>
+            </NoteProperty>
+            <NoteProperty>
+                <Name>ComponentName</Name>
+                <Value>null</Value>
+            </NoteProperty>
+            <NoteProperty>
+                <Name>ComponentType</Name>
+                <Value>null</Value>
+            </NoteProperty>
+            <NoteProperty>
+                <Name>SQL</Name>
+                <Value>null</Value>
+            </NoteProperty>
+        </Members>
+    </Type>
+
+    <Type>
+        <Name>SsisTools.SsisContent</Name>
+        <Members>
+            <NoteProperty>
+                <Name>FileName</Name>
+                <Value>null</Value>
+            </NoteProperty>
+            <NoteProperty>
+                <Name>Category</Name>
+                <Value>null</Value>
+            </NoteProperty>
+            <NoteProperty>
+                <Name>ComponentType</Name>
+                <Value>null</Value>
+            </NoteProperty>
+            <NoteProperty>
+                <Name>TaskName</Name>
+                <Value>null</Value>
+            </NoteProperty>
+            <NoteProperty>
+                <Name>ComponentName</Name>
+                <Value>null</Value>
+            </NoteProperty>
+        </Members>
+    </Type>
+    
+</Types>
